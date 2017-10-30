@@ -467,7 +467,7 @@ void SetBlackThemeQSS(QApplication& app)
                       "QComboBox      { color: rgb(255,255,255); }"
                       "QComboBox QAbstractItemView::item { color: rgb(255,255,255); }"
 					  
-                      "QPushButton    { background: rgb(0,119,234); color: rgb(21,21,21); }"
+                      "QPushButton    { background: rgb(242,199,101); color: rgb(21,21,21); }"
 					  
                       "QDoubleSpinBox { background: rgb(63,67,72); color: rgb(255,255,255); border-color: rgb(194,194,194); }"
                       "QLineEdit      { background: rgb(63,67,72); color: rgb(255,255,255); border-color: rgb(194,194,194); }"
@@ -486,7 +486,7 @@ void SetBlackThemeQSS(QApplication& app)
                       "QTabWidget::pane { border: 1px solid rgb(78,79,83); }"
                       "QToolButton    { background: rgb(30,32,36); color: rgb(116,122,134); border: none; border-left-color: rgb(30,32,36); border-left-style: solid; border-left-width: 6px; margin-top: 8px; margin-bottom: 8px; }"
 					  
-                      "QToolButton:checked { color: rgb(255,255,255); border: none; border-left-color: rgb(0,119,234); border-left-style: solid; border-left-width: 6px; }"
+                      "QToolButton:checked { color: rgb(255,255,255); border: none; border-left-color: rgb(242,199,101); border-left-style: solid; border-left-width: 6px; }"
 					  
                       "QProgressBar   { color: rgb(149,148,148); border-color: rgb(255,255,255); border-width: 3px; border-style: solid; }"
                       "QProgressBar::chunk { background: rgb(255,255,255); }"
