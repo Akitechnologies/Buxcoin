@@ -1,2 +1,0 @@
-# buxcoin
-Buxcoin Repo
